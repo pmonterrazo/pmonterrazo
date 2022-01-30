@@ -26,4 +26,4 @@
     
 
     
-  ![Pacman animation](<iframe src="https://embed.lottiefiles.com/animation/94084"></iframe>)
+  ![Pacman animation](https://github.com/pmonterrazo/pmonterrazo/blob/main/94084-pacman-loading.gif)
