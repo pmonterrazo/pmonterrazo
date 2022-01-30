@@ -16,8 +16,12 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">,
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   </div>
   
   ##
