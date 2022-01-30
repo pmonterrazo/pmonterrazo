@@ -25,5 +25,7 @@
   <a href="https://www.linkedin.com/in/pmonterrazo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
     
- 
+ <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_uhovpivr.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+    
   ![Pacman animation](https://assets10.lottiefiles.com/packages/lf20_uhovpivr.json)
