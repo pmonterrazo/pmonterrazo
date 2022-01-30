@@ -28,4 +28,4 @@
  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <lottie-player src="https://assets10.lottiefiles.com/packages/lf20_uhovpivr.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
     
-  ![Pacman animation](https://assets10.lottiefiles.com/packages/lf20_uhovpivr.json)
+  ![Pacman animation](https://lottiefiles.com/94084-pacman-loading)
