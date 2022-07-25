@@ -1,44 +1,76 @@
-
-<h1>Oi, Tudo bem? Bem Vindo ao meu Github :D</h1>
-
-<div align="right">
-  <a href="https://app.daily.dev/pmonterrazo"><img src="https://api.daily.dev/devcards/8a3d54b1a6f04f168d378a0d4df440ff.png?r=mvl" width="300" alt="Philipe Monterrazo's Dev Card"/></a>
+<div align="center">
+  <img width="1000px" src="https://i.imgur.com/etkRm5o.gif">
+  
+  
+<a href="https://app.daily.dev/pmonterrazo"><img src="https://api.daily.dev/devcards/8a3d54b1a6f04f168d378a0d4df440ff.png?r=mvl" align="right" width="300" alt="Philipe Monterrazo's Dev Card"/></a>
+  
+<div align="center"> 
+  
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/pmonterrazo) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/pmonterrazo)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pmonterrazo/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/philipe.monterrazzo/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/pmonterrazo)
+  
 </div>
-
+  </div>
+  
 <div align="left">
-  <a href="https://github.com/pmonterrazo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pmonterrazo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <h2 align="center"> Olá, Tudo bem? </h2>
+
+  <p align="center">Me chamo <b>Philipe Monterrazo</b>, tenho 27 Anos, moro em Recife-PE, sou estudante do curso de Ciencia da Computação pela Faculdade Nova Roma, e fundador da comunidade <b>Open Your Mind</b>, e quem sabe futuro pesquisador.    </p>
+
+
+ 
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmonterrazo&anuraghazra&show_icons=true&theme=radical)
+  
 </div>
   
-  <div> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmonterrazo&layout=compact&langs_count=7&theme=merko"/>
+<hr>
+  
+### 👾 Conhecimento em:
+<div align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>  
+  
   </div>
-
   
-  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">,
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  </div>
+### 🧠 Artigos Academicos:
   
-  ##
+- 🔏 <a href="https://drive.google.com/file/d/1_hVAd9qG3ZMo0m-DHwqvGPuHSul2cz2I/view?usp=sharing"> Criptografia: Um raio X na ingegridade de dados  </a>
+- 🔗 <a href="https://drive.google.com/file/d/1zb6r4MmT5Ic1TqnvKtHLUruHkOnOiwSY/view?usp=sharing"> Blockchain: A Blindagem da privacidade dos dados </a>
   
-  <div align="center"> 
-  <a href="https://instagram.com/philipe.monterrazzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/pmonterrazo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-
-    
-  ![Pacman animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+### 🎯 Projetos:
+  
+  -  Site Open Your Mind
+  -  Forum Help My Linux
+  -  E-Book Java para Iniciantes
+  -  E-Book Segurança da Informação Descomplicada
+  -  E-Book Logica de Programação para Crianças
+  
+### 📑 Estudando: 
+  
+  -  Java
+  -  HTML5 e CSS3
+  -  Kotlin
+  -  Criação de Microserviços
+  -  Testes Unitarios com Java
+</div>
