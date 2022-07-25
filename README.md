@@ -12,12 +12,11 @@
   </div>
   
 <div align="left">
+
     <h2 align="center"> Olá, Tudo bem? </h2>
 
   <p align="center">Me chamo <b>Philipe Monterrazo</b>, tenho 27 Anos, moro em Recife-PE, sou estudante do curso de Ciencia da Computação pela Faculdade Nova Roma, e fundador da comunidade <b>Open Your Mind</b>, e quem sabe futuro pesquisador.    </p>
 
-
- 
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmonterrazo&anuraghazra&show_icons=true&theme=radical)
