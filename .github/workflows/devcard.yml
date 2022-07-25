@@ -1,4 +1,4 @@
-name: DevCard
+name: devcard
 
 permissions:
   contents: write
