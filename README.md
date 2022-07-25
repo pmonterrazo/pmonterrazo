@@ -6,7 +6,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pmonterrazo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmonterrazo&layout=compact&langs_count=7&theme=merko"/>
 </div>
+  
+  <div align="right" style="display: flex">
+    <a href="https://app.daily.dev/pmonterrazo"><img src="https://api.daily.dev/devcards/8a3d54b1a6f04f168d378a0d4df440ff.png?r=mvl" width="400" alt="Philipe Monterrazo's Dev Card"/></a>
+  </div>
+  
 
+  
   
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,5 +40,3 @@
 
     
   ![Pacman animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-<a href="https://app.daily.dev/pmonterrazo"><img src="https://api.daily.dev/devcards/8a3d54b1a6f04f168d378a0d4df440ff.png?r=mvl" width="400" alt="Philipe Monterrazo's Dev Card"/></a>
