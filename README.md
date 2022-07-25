@@ -2,7 +2,8 @@
   <img src="https://i.imgur.com/etkRm5o.gif">
   
   
-<a href="https://app.daily.dev/pmonterrazo"><img src="https://api.daily.dev/devcards/8a3d54b1a6f04f168d378a0d4df440ff.png?r=mvl" align="right" width="300" alt="Philipe Monterrazo's Dev Card"/></a>
+<a href="https://app.daily.dev/pmonterrazo"><img src="https://github.com/pmonterrazo/pmonterrazo/blob/main/devcard.svg" width="300" align="right" alt="Philipe Monterrazo's Dev Card"/></a>
+
   
 <div align="center"> 
   
