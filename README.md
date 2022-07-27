@@ -31,9 +31,10 @@
   
 <hr>
 
-### 🖥️ Minhas Distros Linux Favoritas:
 
 <div align="center">
+   
+### 🖥️ Minhas Distros Linux Favoritas:
 
 [<img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">](https://www.debian.org/index.pt.html)
 [<img src = "https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white">](https://www.deepin.org/index/en)
@@ -47,8 +48,10 @@
 
 </div>
   
-### 👾 Conhecimento em:
+
 <div align="center">
+  
+### 👾 Conhecimento em:
   
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -72,9 +75,11 @@
   
   
 
-### 💎 Minhas IDEs:
-<div align="center">
 
+<div align="center">
+  
+### 💎 Minhas IDEs:
+  
 <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
@@ -86,10 +91,11 @@
 
   
 </div>
-  
-### 🎯 Projetos:
+
 
 <div align="center">
+    
+### 🎯 Projetos:
   
 [<img src = "https://img.shields.io/badge/Site-OpenYourMind-%237159c1?style=for-the-badge&logo=ghost">](https://www.opensuse.org/)
 [<img src = "https://img.shields.io/badge/Forum-HelpMyLinux-%237159c1?style=for-the-badge&logo=Linux">](https://ubuntu.com/download)
@@ -99,18 +105,25 @@
   
 </div>
 
+
+
+<div align="center">
+
+### 📑 Me Aperfeiçoando:
+  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+</div>
+
 ### 🧠 Artigos Academicos:
   
 - 🔏 <a href="https://drive.google.com/file/d/1_hVAd9qG3ZMo0m-DHwqvGPuHSul2cz2I/view?usp=sharing"> Criptografia: Um raio X na ingegridade de dados  </a>
 - 🔗 <a href="https://drive.google.com/file/d/1zb6r4MmT5Ic1TqnvKtHLUruHkOnOiwSY/view?usp=sharing"> Blockchain: A Blindagem da privacidade dos dados </a>
   
-### 📑 Me Aperfeiçoando: 
-  
-  -  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  -  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  -  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  -  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  -  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   
 </div>
 
