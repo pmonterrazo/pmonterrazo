@@ -17,11 +17,6 @@
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/pmonterrazo) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/philipe.monterrazzo/)
   
-    
-
-  
-![Badge](https://img.shields.io/badge/Site-OpenYourMind-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/Forum-HelpMyLinux-%237159c1?style=for-the-badge&logo=ghost)
 </div>
 
   </div>
@@ -91,18 +86,22 @@
   
 </div>
   
+### 🎯 Projetos:
+
+<div align="center">
+  
+[<img src = "https://img.shields.io/badge/Site-OpenYourMind-%237159c1?style=for-the-badge&logo=ghost">](https://www.opensuse.org/)
+[<img src = "https://img.shields.io/badge/Forum-HelpMyLinux-%237159c1?style=for-the-badge&logo=Linux">](https://ubuntu.com/download)
+<img src = "https://img.shields.io/badge/Ebook-JavaParaIniciantes-F15B2A?style=for-the-badge&logo=mdBook&logoColor=white">
+<img src="https://img.shields.io/badge/EBook-CybersecurityDescomplicado-90E59A.svg?style=for-the-badge&logo=mdBook&logoColor=white"/>
+<img src="https://img.shields.io/badge/EBook-LogicadeProgramaçãoParaCrianças-1B6AC6?style=for-the-badge&logo=mdBook&logoColor=white"/>
+  
+</div>
+
 ### 🧠 Artigos Academicos:
   
 - 🔏 <a href="https://drive.google.com/file/d/1_hVAd9qG3ZMo0m-DHwqvGPuHSul2cz2I/view?usp=sharing"> Criptografia: Um raio X na ingegridade de dados  </a>
 - 🔗 <a href="https://drive.google.com/file/d/1zb6r4MmT5Ic1TqnvKtHLUruHkOnOiwSY/view?usp=sharing"> Blockchain: A Blindagem da privacidade dos dados </a>
-  
-### 🎯 Projetos:
-  
-  -  Site Open Your Mind
-  -  Forum Help My Linux
-  -  E-Book Java para Iniciantes
-  -  E-Book Segurança da Informação Descomplicada
-  -  E-Book Logica de Programação para Crianças
   
 ### 📑 Estudando: 
   
