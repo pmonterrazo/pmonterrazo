@@ -27,7 +27,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmonterrazo&anuraghazra&show_icons=true&theme=radical)
   
 </div>
-  
+
+<br>
+<br>
 <br>
 <br>
 <hr>
