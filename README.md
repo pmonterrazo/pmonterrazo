@@ -16,6 +16,7 @@
 [<img src = "https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425">](https://icq.im/pmonterrazo)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/pmonterrazo) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/philipe.monterrazzo/)
+[<img src = "https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">](https://nubank.com.br/pagar/1imwjo/VKeok90AsV)
   
 </div>
 
@@ -103,17 +104,13 @@
 - 🔏 <a href="https://drive.google.com/file/d/1_hVAd9qG3ZMo0m-DHwqvGPuHSul2cz2I/view?usp=sharing"> Criptografia: Um raio X na ingegridade de dados  </a>
 - 🔗 <a href="https://drive.google.com/file/d/1zb6r4MmT5Ic1TqnvKtHLUruHkOnOiwSY/view?usp=sharing"> Blockchain: A Blindagem da privacidade dos dados </a>
   
-### 📑 Estudando: 
+### 📑 Me Aperfeiçoando: 
   
-  -  Java
-  -  HTML5 e CSS3
-  -  Kotlin
-  -  Criação de Microserviços
-  -  Testes Unitarios com Java
+  -  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  -  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  -  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  -  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  -  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  
 </div>
 
-<div align="center">
-  
-[<img src = "https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">](https://nubank.com.br/pagar/1imwjo/VKeok90AsV)
-  
-</div>
