@@ -1,13 +1,17 @@
 <div align="center">
   <img src="https://i.imgur.com/etkRm5o.gif">
   
-  
+
 <a href="https://app.daily.dev/pmonterrazo"><img src="https://github.com/pmonterrazo/pmonterrazo/blob/main/devcard.svg" width="330" align="right" alt="Philipe Monterrazo's Dev Card"/></a>
 
 <div align="center"> 
 
- ### 💬 Minhas Redes Sociais 😎
+ <br>
+  
+### 💬 Minhas Redes Sociais 😎
  
+<br>
+  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pmonterrazo/) 
 [<img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">](mailto:philipemonterrazo@outlook.com)
 [<img src = "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">](mailto:pmonterrazo.dev@protonmail.com)
@@ -23,6 +27,8 @@
   </div>
 
 <div align="center">
+  
+<br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmonterrazo&anuraghazra&show_icons=true&theme=radical)
   
