@@ -20,6 +20,8 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/philipe.monterrazzo/)
 [<img src = "https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">](https://nubank.com.br/pagar/1imwjo/VKeok90AsV)
   
+  <br>
+  
 </div>
 
   </div>
