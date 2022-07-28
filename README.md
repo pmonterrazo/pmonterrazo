@@ -126,11 +126,14 @@
 
 </div>
 
+<div align="center">
+  
 ### 🧠 Artigos Academicos:
+
+[<img src = "https://img.shields.io/badge/Criptografia-UmraioXnaingegridadededados-%237159c1?style=for-the-badge&logo=mdBook">]([https://www.opensuse.org/](https://drive.google.com/file/d/1_hVAd9qG3ZMo0m-DHwqvGPuHSul2cz2I/view?usp=sharing))
+
+[<img src = "https://img.shields.io/badge/Blockchain-ABlindagemdaprivacidadedosdados-%237159c1?style=for-the-badge&logo=mdBook">]([https://ubuntu.com/download](https://drive.google.com/file/d/1zb6r4MmT5Ic1TqnvKtHLUruHkOnOiwSY/view?usp=sharing))
   
-- 🔏 <a href="https://drive.google.com/file/d/1_hVAd9qG3ZMo0m-DHwqvGPuHSul2cz2I/view?usp=sharing"> Criptografia: Um raio X na ingegridade de dados  </a>
-- 🔗 <a href="https://drive.google.com/file/d/1zb6r4MmT5Ic1TqnvKtHLUruHkOnOiwSY/view?usp=sharing"> Blockchain: A Blindagem da privacidade dos dados </a>
-  
-  
+</div>
 </div>
 
