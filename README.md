@@ -109,6 +109,7 @@
 <img src = "https://img.shields.io/badge/Ebook-JavaParaIniciantes-F15B2A?style=for-the-badge&logo=mdBook&logoColor=white">
 <img src="https://img.shields.io/badge/EBook-CybersecurityDescomplicado-90E59A.svg?style=for-the-badge&logo=mdBook&logoColor=white"/>
 <img src="https://img.shields.io/badge/EBook-LogicadeProgramaçãoParaCrianças-1B6AC6?style=for-the-badge&logo=mdBook&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Project-Pokedex-fc030f?style=for-the-badge&logo=appveyor&logoColor=white">](https://github.com/pmonterrazo/pokedex)
   
 </div>
 
