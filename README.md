@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/etkRm5o.gif">
-  
-
 <a href="https://app.daily.dev/pmonterrazo"><img src="https://github.com/pmonterrazo/pmonterrazo/blob/main/devcard.svg" width="330" align="right" alt="Philipe Monterrazo's Dev Card"/></a>
 
 <div align="center"> 
